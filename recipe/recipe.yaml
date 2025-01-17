@@ -25,6 +25,7 @@ requirements:
     - python >=${{ python_min }}
     - pytorch
     - numpy
+    - packaging
 
 tests:
   - python:
